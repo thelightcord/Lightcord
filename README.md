@@ -5,7 +5,7 @@
 		<a href="https://github.com/discordjs/discord.js/actions"><img src="https://github.com/discordjs/discord.js/actions/workflows/test.yml/badge.svg" alt="Tests status" /></a>
 	</p>
 
-The simplest customizable client for Discord, offering easy personalization and a streamlined user experience.
+The simplest customizable client for Discord, offering easy personalization and a streamlined user experience. 
 
 | ![image](https://media.discordapp.net/attachments/1271240403550474362/1272986954455056395/lightcord4.png?ex=66bcf8fc&is=66bba77c&hm=d267fc51327151fcdca7991cd5f9a4c519f6685c21b5c6c5e9a2f7e88c8ece4c&=&format=webp&quality=lossless&width=2488&height=1356) |
 | :--------------------------------------------------------------------------------------------------: |
