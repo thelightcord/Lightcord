@@ -7,7 +7,7 @@
 
 The simplest customizable client for Discord, offering easy personalization and a streamlined user experience. 
 
-| ![image](lightcord2.png) |
+| ![image](thelightcord.github.io/website/lightcord2.png) |
 | :--------------------------------------------------------------------------------------------------: |
 |   A screenshot of LighcordBD showcasing the many modules that are available for your Discord experience.   |
 
